@@ -1,0 +1,6 @@
+model_checkpoint_path: "F:/gpu/deep_birde/DRL-FlappyBird-master/saved_networks/network-dqn-330000"
+all_model_checkpoint_paths: "F:/gpu/deep_birde/DRL-FlappyBird-master/saved_networks/network-dqn-290000"
+all_model_checkpoint_paths: "F:/gpu/deep_birde/DRL-FlappyBird-master/saved_networks/network-dqn-300000"
+all_model_checkpoint_paths: "F:/gpu/deep_birde/DRL-FlappyBird-master/saved_networks/network-dqn-310000"
+all_model_checkpoint_paths: "F:/gpu/deep_birde/DRL-FlappyBird-master/saved_networks/network-dqn-320000"
+all_model_checkpoint_paths: "F:/gpu/deep_birde/DRL-FlappyBird-master/saved_networks/network-dqn-330000"
